@@ -1,7 +1,9 @@
 /*
  * Globals
  */
-
+.nav .nav-item {
+  margin-right: 1.5rem;
+}
 
 .nav .nav-item .nav-link {
   color: lightgray;
