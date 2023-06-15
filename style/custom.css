@@ -16,6 +16,14 @@
 .nav .nav-item .nav-link.active {
   color: black;
 }
+
+/* .hover-zoom {
+  transition: transform 0.3s;
+}
+
+.hover-zoom:hover {
+  transform: scale(1.1);
+} */
 /* Custom default button */
 .btn-light,
 .btn-light:hover,
